@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -7,8 +7,8 @@ namespace NoLeavesMod
     public class removeleaf : MonoBehaviour
     {
         private const string forestlocation = "Environment Objects/LocalObjects_Prefab/Forest";
-        private const string leaves = "UnityTempFile-5642b89260ac826449cafb7fdeb899e4 (combined by EdMeshCombiner)";
-        private static readonly int[] leafindex = { 22, 23, 24 };
+        private const string leaves = "UnityTempFile-22822d755b677c1498c8ad282f51001c (combined by EdMeshCombiner)";
+        private static readonly int[] leafindex = { 24, 25, 26 };
 
         private void Start()
         {
