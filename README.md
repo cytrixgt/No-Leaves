@@ -12,3 +12,7 @@ Basically if you get annoyed or tired of the leaves on the trees you can use thi
 Cytrix (@cytrixgt) - Mod Maker
 
 Jrvr (@jrvr-cs) - README.md Inspiration
+
+# Disclaimer
+
+This mod is not advertised as a "legal" or "illegal" mod, any modification to the game that messes with the games code or objects can be classified as a cheat and I am not responsible for any bans or accusations with this mod.
